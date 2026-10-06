@@ -1,0 +1,21 @@
+{
+  "salamanka.ambient": {
+    "sounds": ["salamanka:salamanka/basic", "salamanka:salamanka/basic_2"],
+    "subtitle": "subtitles.salamanka.ambient"
+  },
+  "salamanka.hurt": {
+    "sounds": ["salamanka:salamanka/hurt"],
+    "subtitle": "subtitles.salamanka.hurt"
+  },
+  "salamanka.death": {
+    "sounds": ["salamanka:salamanka/death"],
+    "subtitle": "subtitles.salamanka.death"
+  },
+  "salamanka.spawn": {
+    "sounds": ["salamanka:salamanka/spawn"],
+    "subtitle": "subtitles.salamanka.spawn"
+  },
+  "music_disc.la_chona": {
+    "sounds": [{ "name": "salamanka:records/la_chona", "stream": true }]
+  }
+}

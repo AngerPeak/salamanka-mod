@@ -1,0 +1,21 @@
+{
+  "itemGroup.salamanka": "Salamanka",
+  "entity.salamanka.salamanka": "Salamanka",
+  "item.salamanka.salamanka_spawn_egg": "Salamanka Spawn Egg",
+  "item.salamanka.coke_1": "Coke \u2605",
+  "item.salamanka.coke_1.tooltip": "Speed II, Haste",
+  "item.salamanka.coke_3": "Coke \u2605\u2605\u2605",
+  "item.salamanka.coke_3.tooltip": "Super speed, light hallucinations",
+  "item.salamanka.coke_5": "Coke \u2605\u2605\u2605\u2605\u2605",
+  "item.salamanka.coke_5.tooltip": "TOTAL TRIP: speed, huge jumps, extreme hallucinations",
+  "item.salamanka.mauser": "Mauser",
+  "item.salamanka.mauser.tooltip": "Right click to shoot. 7-8 damage",
+  "item.salamanka.la_chona_record": "Music Disc",
+  "item.salamanka.la_chona_record.desc": "Los Tucanes De Tijuana - La Chona",
+  "block.salamanka.coke_block": "Coke Block",
+  "effect.salamanka.trip": "Trip",
+  "subtitles.salamanka.ambient": "Salamanka mutters",
+  "subtitles.salamanka.hurt": "Salamanka hurts",
+  "subtitles.salamanka.death": "Salamanka dies",
+  "subtitles.salamanka.spawn": "Salamanka appears"
+}

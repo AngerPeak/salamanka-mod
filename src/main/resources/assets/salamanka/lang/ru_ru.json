@@ -1,0 +1,21 @@
+{
+  "itemGroup.salamanka": "Salamanka",
+  "entity.salamanka.salamanka": "Саламанка",
+  "item.salamanka.salamanka_spawn_egg": "Яйцо призыва Саламанки",
+  "item.salamanka.coke_1": "Кока \u2605",
+  "item.salamanka.coke_1.tooltip": "Скорость II, ускоренная добыча",
+  "item.salamanka.coke_3": "Кока \u2605\u2605\u2605",
+  "item.salamanka.coke_3.tooltip": "Супер скорость, лёгкие галлюцинации",
+  "item.salamanka.coke_5": "Кока \u2605\u2605\u2605\u2605\u2605",
+  "item.salamanka.coke_5.tooltip": "ТОТАЛЬНЫЙ ТРИП: скорость, высокие прыжки, жёсткие галлюцинации",
+  "item.salamanka.mauser": "Маузер",
+  "item.salamanka.mauser.tooltip": "ПКМ - выстрел. 7-8 урона",
+  "item.salamanka.la_chona_record": "Музыкальная пластинка",
+  "item.salamanka.la_chona_record.desc": "Los Tucanes De Tijuana - La Chona",
+  "block.salamanka.coke_block": "Блок коки",
+  "effect.salamanka.trip": "Трип",
+  "subtitles.salamanka.ambient": "Саламанка бормочет",
+  "subtitles.salamanka.hurt": "Саламанке больно",
+  "subtitles.salamanka.death": "Саламанка умирает",
+  "subtitles.salamanka.spawn": "Саламанка появляется"
+}
